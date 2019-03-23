@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Margarine');
+
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Margarine', cursive;
+    background-image: linear-gradient(to bottom, #20b936, #00ae93, #009cf4, #007aff, #7012eb);
+    color: #fff;
+}
