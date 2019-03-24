@@ -1,0 +1,13 @@
+{
+  "main.css": "/myWebWeather/static/css/main.d8dabc7f.chunk.css",
+  "main.js": "/myWebWeather/static/js/main.f36210b7.chunk.js",
+  "main.js.map": "/myWebWeather/static/js/main.f36210b7.chunk.js.map",
+  "runtime~main.js": "/myWebWeather/static/js/runtime~main.8ab31626.js",
+  "runtime~main.js.map": "/myWebWeather/static/js/runtime~main.8ab31626.js.map",
+  "static/js/2.d1794fd5.chunk.js": "/myWebWeather/static/js/2.d1794fd5.chunk.js",
+  "static/js/2.d1794fd5.chunk.js.map": "/myWebWeather/static/js/2.d1794fd5.chunk.js.map",
+  "index.html": "/myWebWeather/index.html",
+  "precache-manifest.52d9076547c924493733952441fa6886.js": "/myWebWeather/precache-manifest.52d9076547c924493733952441fa6886.js",
+  "service-worker.js": "/myWebWeather/service-worker.js",
+  "static/css/main.d8dabc7f.chunk.css.map": "/myWebWeather/static/css/main.d8dabc7f.chunk.css.map"
+}
